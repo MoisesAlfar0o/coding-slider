@@ -118,7 +118,6 @@ body{
     box-shadow: hsla(240, 38%, 20%, 0.1) 0px 3px 12px;
 }
 
-
 .btn{
     display: flex;
     position: relative;
@@ -127,7 +126,7 @@ body{
     overflow: hidden;
     box-shadow: 4px 4px 10px hsla(240, 38%, 20%, 0.6);
     bottom: 30px;
-    left: 60px;
+    right: 140px;
 }
 
 .btn button {

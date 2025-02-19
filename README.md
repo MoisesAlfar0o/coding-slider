@@ -1,16 +1,15 @@
 # - Coding bootcamp testimonials slider
 
-[Frontend Mentor](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL).  This is a solution for the 
+This is a solution to the [Coding bootcamp testimonials slider challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL). 
 
 ## Screenshot
 ![Design preview for the Coding bootcamp testimonials slider coding challenge](./design/desktop-preview.jpg)
 
 ## Links
 
-- Solution URL: [here](https://www.frontendmentor.io/solutions/solution-coding-bootcamp-testimonials-slider-cuyRNgySQb)
-- Live Site URL: [here](https://xstephx.github.io/coding-bootcamp-testimonials-slider-challenge/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-html-css-js-6mwEdZSToj)
+- Live Site URL: [here](https://coding-slider-nine.vercel.app/)
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
 ## My process
 
