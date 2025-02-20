@@ -43,8 +43,8 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-left: 20px;
-    margin-right: -70px;
+    margin-left: 50px;
+    margin-right: -100px;
     gap: 40px;
     position: relative;
     background-position: calc(0% + 60px) calc(0% + 91px);
